@@ -1,0 +1,11 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.btn-outline-gray {
+    --color-gray: #676767; /* Il tuo grigio chiaro */
+    color: var(--color-gray);
+    border-color: var(--color-gray);
+}
